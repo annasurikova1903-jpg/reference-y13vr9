@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://annasurikova1903-jpg.github.io/reference-y13vr9/sitemap.xml
